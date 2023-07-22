@@ -1,0 +1,61 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [{
+            "name": "Chocolate Mint",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": [
+                "chocolate syrup",
+                "peppermint sprinkle",
+                "vanilla base"
+            ],
+            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/chocolate-mint.svg"
+        }, {
+            "name": "Peach Mango",
+            "calories": 350,
+            "type": "milkshake-type ice-cream",
+            "ingredients": [
+                "peach syrup",
+                "mango chunks",
+                "vanilla base"
+            ],
+            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "strawberry syrup",
+                "sprinkles",
+                "vanilla base"
+            ],
+            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name" : "Pickles Cream",
+            "calories": 500,
+            "type": "weird ice-cream",
+            "ingredients": [
+                "pickles",
+                "milk",
+                "rainbow"
+            ],
+            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name" : "Beer Coffee",
+            "calories" : 10000,
+            "type" : "party ice-cream",
+            "ingredients": [
+                "beer",
+                "coffee",
+                "cream"
+            ],
+            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/ice-cream-xtra2.svg"
+        }
+    ]
+}
